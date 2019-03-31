@@ -11,30 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Computer Science, Nanjing University, 2014, advisor: [Prof. Guihai Chen](http://cs.nju.edu.cn/gchen)
+	* Joint PhD student,  College of William and Mary, 2011.8-2012.8, hosted by [Prof. Qun Li](http://www.cs.wm.edu/~liqun)
+* BS in Computer Science, Nanjing University, 2008
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2017 - Present Associate Professor, Nanjing University of Aeronautics and Astronautics
+* May 2014 - May 2017 Assistant Professor, Nanjing University of Aeronautics and Astronautics
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -56,4 +42,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Editorial Board Member [International Journal of Distributed Sensor Networks](http://www.hindawi.com/journals/ijdsn/editors/) 2014.4-
+* Technical Committee Member [Computer Communications](http://www.journals.elsevier.com/computer-communications/editorial-board/) 2014.8-
