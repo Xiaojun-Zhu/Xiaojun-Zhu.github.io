@@ -1,4 +1,12 @@
-
+---
+permalink: /
+title: "Xiaojun Zhu's homepage"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Website under construction. Please visit <http://xzhu.info> for more information.
 
@@ -80,7 +88,7 @@ Publications
 **"Estimating the extrema of large-scale RFID systems."** In *Proceedings of ICPADS*, Sentosa , Singapore, Dec. 11-13, 2018. (CCF C)
 
 1. Xinshu Ma, **Xiaojun Zhu**(corresponding author), Bing Chen.<br>
-**"Exact Algorithms for Maximizing Lifetime of WSNs using Integer Linear Programming." ** In *Proceedings of WCNC*, San Francisco, CA, March 19-22, 2017. (CCF C)
+**"Exact Algorithms for Maximizing Lifetime of WSNs using Integer Linear Programming."** In *Proceedings of WCNC*, San Francisco, CA, March 19-22, 2017. (CCF C)
 
 1. Jiaqi Zhen, Hong Xu, **Xiaojun Zhu**, Guihai Chen, Yanhui Geng.<br>
 **"We've Got You Covered: Failure Recovery with Backup Tunnels in Traffic Engineering."** In *Proceedings of ICNP*, Singapore, November 8-11, 2016. (CCF B)
@@ -124,11 +132,14 @@ Publications
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Operating System, every spring semester since 2015
+* Computational Thinking, Fall 2014
   
 Service and leadership
 ======
-* Editorial Board Member [International Journal of Distributed Sensor Networks](http://www.hindawi.com/journals/ijdsn/editors/) 2014.4-
-* Technical Committee Member [Computer Communications](http://www.journals.elsevier.com/computer-communications/editorial-board/) 2014.8-
+
+
+|:---|:---|:---:|
+| Editorial Board Member   | [International Journal of Distributed Sensor Networks](http://www.hindawi.com/journals/ijdsn/editors/)    |2014.4-         |
+| Technical Committee Member  | [Computer Communications](http://www.journals.elsevier.com/computer-communications/editorial-board/)  | 2014.8-               |
+ 
