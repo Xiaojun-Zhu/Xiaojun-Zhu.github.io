@@ -1,34 +1,24 @@
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 Website under construction. Please visit <http://xzhu.info> for more information.
 
 Education
 ======
-* PhD in Computer Science, Nanjing University, 2014, advisor: [Prof. Guihai Chen](http://cs.nju.edu.cn/gchen)
+* PhD in Computer Science, Nanjing University, 2014, advised by [Prof. Guihai Chen](http://cs.nju.edu.cn/gchen)
 	* Joint PhD student,  College of William and Mary, 2011.8-2012.8, hosted by [Prof. Qun Li](http://www.cs.wm.edu/~liqun)
 * BS in Computer Science, Nanjing University, 2008
 
 Work experience
 ======
-* June 2017 - Present Associate Professor, Nanjing University of Aeronautics and Astronautics
-* May 2014 - May 2017 Assistant Professor, Nanjing University of Aeronautics and Astronautics
+* June 2017 - Present, Associate Professor, Nanjing University of Aeronautics and Astronautics
+* May 2014 - May 2017, Assistant Professor, Nanjing University of Aeronautics and Astronautics
   
 
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<script src="http://bibbase.org/show?bib=xiaojun-zhu.github.io/publication.bib&jsonp=1"></script>
+
 
   
 Teaching
