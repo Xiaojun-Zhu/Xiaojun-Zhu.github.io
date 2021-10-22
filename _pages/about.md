@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Website under construction. Please visit <http://xzhu.info> for more information.
+I tried to use this template several years ago, but it seems a little heavy for me to understand every detail. Please refer to  <http://xzhu.info> for the latest version. 
 
 Education
 ======
