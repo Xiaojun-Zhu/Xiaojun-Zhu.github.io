@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaojun Zhu"
 title_separator          : "-"
 name                     : &name "Xiaojun Zhu"
-description              : &description "Associate Professor at Nanjing University of Aeronautics and Astronautics"
+description              : &description "Professor at Nanjing University of Aeronautics and Astronautics"
 url                      : https://xiaojun-zhu.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaojun-zhu.github.io"
